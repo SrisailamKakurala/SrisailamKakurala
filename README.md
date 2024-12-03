@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srisailamkakurala&label=Profile%20views&color=0e75b6&style=flat" alt="srisailamkakurala" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srisailamkakurala" alt="srisailamkakurala" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="margin-right: 20px" src="https://github-profile-trophy.vercel.app/?username=srisailamkakurala" alt="srisailamkakurala" /></a> </p>
 
 - 🔭 I’m currently working on **eGo Bus (simplifying student transportation with real time tracking and notifications.)**
 
@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **C, C++, Python, DSA, React JS, Tailwind CSS, Node JS, MongoDB, Git/GitHub, Supervised ML, Docker, React Native**
 
-- 📫 How to reach me **srisailamkakurala@gmail.com**
+- 📫 reach me at **srisailamkakurala@gmail.com**
 
-- ⚡ Fun fact **I am an Anime Lover 🌟😎**
+- ⚡ Fun fact: **I am an Anime Lover 🌟😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
