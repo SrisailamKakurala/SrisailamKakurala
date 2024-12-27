@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Srisailam Kakurala | Co-Founder@eGO Bus (www.eGoBus.in)</h1>
+<h1 align="center">Hi 👋, I'm Srisailam Kakurala | Co-Founder@eGO Bus </h1>
 <h3 align="center">A Proficient Full stack Web Developer, App Developer and an AI/ML Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srisailamkakurala&label=Profile%20views&color=0e75b6&style=flat" alt="srisailamkakurala" /> </p>
